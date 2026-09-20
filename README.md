@@ -7,5 +7,6 @@
 </p>
 <p align="center"><strong>Software Engineer</strong></p>
 <p align="center">Ho Chi Minh City, Viet Nam</p>
+<p align="center">❝ First, solve the problem. Then, write the code. ❞ — John Johnson</p>
 
 <img src="./assets/bottom.svg" alt="Bottom SVG"/>
